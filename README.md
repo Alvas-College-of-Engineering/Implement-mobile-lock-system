@@ -87,11 +87,6 @@ java -cp out MobileLockWebApp
 
 <img src="src/images/Result.png" width="100%">
 
----
-
-## 🔹 Project Structure in VS Code
-
-<img src="./image.png" width="70%">
 
 ---
 
