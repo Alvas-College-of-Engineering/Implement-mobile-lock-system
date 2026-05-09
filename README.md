@@ -7,14 +7,14 @@ This project allows users to securely set, unlock, change, and lock a mobile PIN
 
 #  Features
 
-- ✅ Set a secure PIN
-- ✅ Unlock mobile using PIN
-- ✅ Change existing PIN
-- ✅ Lock mobile again
-- ✅ PIN validation system
-- ✅ Access granted / denied messages
-- ✅ Modern UI Design
-- ✅ Real-time lock status display
+- Set a secure PIN
+-  Unlock mobile using PIN
+-  Change existing PIN
+-  Lock mobile again
+-  PIN validation system
+-  Access granted / denied messages
+-  Modern UI Design
+-  Real-time lock status display
 
 ---
 
@@ -81,9 +81,9 @@ java -cp out MobileLockWebApp
 
 ---
 
-# 📸 Output Screenshots
+#  Output Screenshots
 
-## 🔹 Mobile Lock System UI
+##  Mobile Lock System UI
 
 <img src="src/images/Result.png" width="100%">
 
@@ -194,4 +194,4 @@ Your GitHub repository will contain:
 
 #  License
 
-This project is created for educational purposes only.
+Developed as an academic project submission.
