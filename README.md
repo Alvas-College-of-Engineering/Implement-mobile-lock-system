@@ -85,7 +85,7 @@ java -cp out MobileLockWebApp
 
 ## 🔹 Mobile Lock System UI
 
-<img src="./Result.png" width="100%">
+<img src="src/images/Result.png" width="100%">
 
 ---
 
