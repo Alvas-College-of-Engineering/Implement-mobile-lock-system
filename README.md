@@ -1,7 +1,7 @@
 # Mobile Lock System 🔐
 
 A Java-based Mobile Lock / PIN Control System with a modern graphical interface.  
-This application allows users to securely set, unlock, change, and lock a mobile PIN with validation and access messages.
+This project allows users to securely set, unlock, change, and lock a mobile PIN with validation and access messages.
 
 ---
 
@@ -13,8 +13,8 @@ This application allows users to securely set, unlock, change, and lock a mobile
 - ✅ Lock mobile again
 - ✅ PIN validation system
 - ✅ Access granted / denied messages
-- ✅ Attractive UI design
-- ✅ Real-time status display
+- ✅ Modern UI Design
+- ✅ Real-time lock status display
 
 ---
 
@@ -23,6 +23,7 @@ This application allows users to securely set, unlock, change, and lock a mobile
 - Java
 - Java Swing
 - VS Code
+- GitHub
 
 ---
 
@@ -84,28 +85,32 @@ java -cp out MobileLockWebApp
 
 ## 🔹 Mobile Lock System UI
 
-<img width="100%" src="Result.png">
+<img src="./Result.png" width="100%">
 
 ---
 
 ## 🔹 Project Structure in VS Code
 
-<img width="60%" src="image.png">
+<img src="./image.png" width="70%">
 
 ---
 
 # 📖 Working Process
 
-### Set PIN
+## 🔹 Set PIN
+
 User enters a new PIN and clicks **Set PIN**.
 
-### Unlock Mobile
+## 🔹 Unlock Mobile
+
 Enter the correct PIN to unlock the mobile system.
 
-### Change PIN
+## 🔹 Change PIN
+
 Users can change their current PIN after verification.
 
-### Lock Mobile
+## 🔹 Lock Mobile
+
 Click **Lock Now** to lock the system again.
 
 ---
@@ -113,11 +118,11 @@ Click **Lock Now** to lock the system again.
 # 💡 Future Improvements
 
 - Fingerprint authentication
-- Face unlock feature
-- Database storage
+- Face unlock system
 - OTP verification
-- Dark mode UI
-- Mobile responsive design
+- Database storage
+- Dark mode support
+- Mobile responsive UI
 
 ---
 
@@ -129,31 +134,50 @@ Click **Lock Now** to lock the system again.
 
 # ⭐ GitHub Upload Steps
 
-## Initialize Git
+## Step 1️⃣ Initialize Git
 
 ```bash
 git init
 ```
 
-## Add Files
+---
+
+## Step 2️⃣ Add All Files
 
 ```bash
 git add .
 ```
 
-## Commit Files
+---
+
+## Step 3️⃣ Commit Files
 
 ```bash
 git commit -m "Initial commit - Mobile Lock System"
 ```
 
-## Connect GitHub Repository
+---
+
+## Step 4️⃣ Create Repository in GitHub
+
+1. Open GitHub
+2. Click **New Repository**
+3. Repository Name: `MobileLockProject`
+4. Click **Create Repository**
+
+---
+
+## Step 5️⃣ Connect Local Project to GitHub
+
+Replace `your-username` with your GitHub username.
 
 ```bash
 git remote add origin https://github.com/your-username/MobileLockProject.git
 ```
 
-## Push Project
+---
+
+## Step 6️⃣ Push Project to GitHub
 
 ```bash
 git branch -M main
@@ -162,6 +186,17 @@ git push -u origin main
 
 ---
 
+# ✅ After Upload
+
+Your GitHub repository will contain:
+
+- Java source code
+- README documentation
+- Output screenshots
+- Project structure
+
+---
+
 # 📜 License
 
-This project is created for educational purposes.
+This project is created for educational purposes only.
